@@ -1,6 +1,6 @@
 # Predict-Diabeetus
 
-https://colab.research.google.com/drive/1Ia2zAuXSEPojGHlUCpc_Fu6ZY-FVXMAP#scrollTo=3f79ac6a
+https://colab.research.google.com/drive/1Ia2zAuXSEPojGHlUCpc_Fu6ZY-FVXMAP#scrollTo=cf32757d
 
 Data was collected from: https://www.kaggle.com/datasets/houcembenmansour/predict-diabetes-based-on-diagnostic-measures
 
